@@ -1,5 +1,12 @@
 # operators in python
 # Arithmetic operators
+# +  Addition
+# -  subtraction 
+# *  mutiplication
+# /  division
+# // floor division
+# %  modulus(reminder)
+# ** power
 
 num = 24
 num2= 15
