@@ -1,0 +1,10 @@
+# index()
+print("How work index👇")
+my_list=["Arshika","ravi","ravina"]
+print("before my_list=",my_list)
+item_index=my_list.index("ravi")
+print("Index ravi=",item_index)
+item_index2=my_list.index("ravina")
+print("Index ravina=",item_index2)
+item_index3=my_list.index("Arshika")
+print("Index ravina=",item_index3)
